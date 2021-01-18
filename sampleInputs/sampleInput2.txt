@@ -1,0 +1,16 @@
+
+www.google.com
+http://raw.githubusercontent.com/okfn/dataportals.org/master/data/portals.csv
+https://raw.githubusercontent.com/okfn/dataportals.org/master/data/portals.csv 
+https://banner2.cleanpng.com/20180901/qoa/kisspng-computer-icons-hyperlink-favicon-url-shortening-po-ms-lianjie-svg-png-icon-free-download-331745-5b8ad9b3d25566.5256320315358263558615.jpg
+ftp://speedtest.tele2.net/1MB.zip
+ftp://speedtest.tele2.net/1KB.zip
+ftp://speedtest.tele2.net/1MB.zip
+ftp://speedtest.tele2.net/512KB.zip
+ftp://speedtest.tele2.net/nofile.zip
+sftp://demo:password@test.rebex.net/pub/example/WinFormClientSmall.png
+sftp://demos:passwords@test.rebex.net/pub/example/WinFormClientSmall.png
+
+
+
+
